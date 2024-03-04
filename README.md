@@ -2,6 +2,7 @@
 
 Mini Trello is a simple Trello clone, allowing you to manage and organize tasks and projects with ease.
 
+
 ## Table of Contents
 
 - [About](#about)
